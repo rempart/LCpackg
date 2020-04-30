@@ -14,6 +14,8 @@ document()
 use_tidy_description()
 attachment::att_to_description()
 check()
-install()
-build()
 
+goodpractice::goodpractice() #optionnel verifie l orthodoxie
+install()
+build() #cree un tar.gz pour etre sur le cran
+ # Le minimum pour faire un package
