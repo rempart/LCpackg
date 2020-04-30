@@ -11,6 +11,8 @@ Authors@R:
              role = "cph"))
 Description: Learning to create a packag.
 License: GPL-3
+URL: https://github.com/rempart/LCpackg
+BugReports: https://github.com/rempart/LCpackg/issues
 Imports: 
     glue,
     stringr
