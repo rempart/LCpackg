@@ -2,9 +2,12 @@
 % Please edit documentation in R/calculations.R
 \name{add}
 \alias{add}
+\alias{multiply}
 \title{Basics}
 \usage{
 add(x, y)
+
+multiply(x, y)
 }
 \arguments{
 \item{x}{Numeric}
@@ -19,4 +22,5 @@ Some usefull operations
 }
 \examples{
 add(4,7)
+multiply(3,2.1)
 }
