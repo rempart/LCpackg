@@ -13,11 +13,9 @@ add<-function(x,y){
   x+y
 }
 
-#' Title
+#' Multiply
 #'
-#' @inheritParams add
-#'
-#' @return
+#' @rdname add
 #' @export
 #'
 #' @examples

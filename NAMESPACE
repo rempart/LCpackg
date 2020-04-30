@@ -2,3 +2,6 @@
 
 export(add)
 export(multiply)
+export(printdate)
+importFrom(glue,glue)
+importFrom(stringr,str_split)
