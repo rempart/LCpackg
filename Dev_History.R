@@ -29,6 +29,8 @@ use_github()
 use_github_links()
 use_testthat()
 use_test("calculations.R")
+use_test("date")
+use_spell_check()
 ###regularly
 load_all()
 
@@ -36,6 +38,7 @@ document()
 
 use_tidy_description()
 attachment::att_to_description()
+test()
 check()
 
 goodpractice::goodpractice() #optionnel verifie l orthodoxie

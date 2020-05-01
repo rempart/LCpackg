@@ -18,7 +18,7 @@ multiply(x, y)
 Sum or product \code{x} and \code{y}
 }
 \description{
-Some usefull operations
+Some useful operations
 }
 \examples{
 add(4,7)

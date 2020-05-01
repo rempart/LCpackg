@@ -1,6 +1,6 @@
 #' Basics
 #'
-#'Some usefull operations
+#'Some useful operations
 #' @param x Numeric
 #' @param y Numeric
 #'
