@@ -32,6 +32,8 @@ use_test("calculations.R")
 use_test("date")
 use_spell_check()
 use_readme_rmd()
+library(magick)
+use_logo("../Eric_Bebe.png")
 ###regularly
 load_all()
 
