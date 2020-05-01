@@ -39,7 +39,7 @@ use_readme_rmd()
 # badgecreatr::badge_license()
 
 # use_news_md() #depuis la console car demande que tous les commits soient faits
-
+use_vignette("example")
 ###regularly
 load_all()
 
