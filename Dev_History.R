@@ -31,6 +31,7 @@ use_testthat()
 use_test("calculations.R")
 use_test("date")
 use_spell_check()
+use_readme_rmd()
 ###regularly
 load_all()
 
@@ -39,6 +40,8 @@ document()
 use_tidy_description()
 attachment::att_to_description()
 test()
+spell_check()
+#spelling::update_wordlist()
 check()
 
 goodpractice::goodpractice() #optionnel verifie l orthodoxie
