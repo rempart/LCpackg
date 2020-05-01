@@ -32,8 +32,14 @@ use_test("calculations.R")
 use_test("date")
 use_spell_check()
 use_readme_rmd()
-library(magick)
-use_logo("../Eric_Bebe.png")
+#library(magick)
+# use_logo("../Eric_Bebe.png")
+# use_lifecycle_badge("experimental")
+# badger::badge_last_commit()
+# badgecreatr::badge_license()
+
+# use_news_md() #depuis la console car demande que tous les commits soient faits
+
 ###regularly
 load_all()
 
