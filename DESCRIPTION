@@ -16,6 +16,8 @@ BugReports: https://github.com/rempart/LCpackg/issues
 Imports: 
     glue,
     stringr
+Suggests: 
+    testthat
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
