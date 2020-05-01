@@ -40,6 +40,7 @@ use_readme_rmd()
 
 # use_news_md() #depuis la console car demande que tous les commits soient faits
 use_vignette("example")
+use_github_action_check_release() #envoi sur machine virtuelle pour test
 ###regularly
 load_all()
 

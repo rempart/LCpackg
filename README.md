@@ -11,6 +11,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![](https://img.shields.io/github/last-commit/rempart/LCpackg.svg)](https://github.com/rempart/LCpackg/commits/master)
 
 [![license](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![R build
+status](https://github.com/rempart/LCpackg/workflows/R-CMD-check/badge.svg)](https://github.com/rempart/LCpackg/actions)
 <!-- badges: end -->
 
 The goal of LCpackg is to have a try following Antoine’s talk on 14th of
