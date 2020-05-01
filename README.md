@@ -1,13 +1,14 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# LCpackg
+# LCpackg <img src='man/figures/logo.png' align="right" height="90.5" />
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of LCpackg is to …
+The goal of LCpackg is to have a try following Antoine’s talk on 14th of
+April, 2020
 
 ## Installation
 
